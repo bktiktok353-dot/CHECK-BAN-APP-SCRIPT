@@ -50,7 +50,9 @@ Content-Type: application/json
 }
 ```
 
-- `banned` → `true` if the number is banned, otherwise `false`
+- `banned` → `true` 🌹📵⃟⃟⃟𝗧𝗢 𝗕𝗘 𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗘𝗗 ⃟📵🌹
+★
+✞𝑯𝑶𝑺𝑯𝑰✞, otherwise `false`
 - `reason` → an explanation if available, otherwise `null`
 
 In the app's code, this is handled here (`  HOSHI/index.html`):
