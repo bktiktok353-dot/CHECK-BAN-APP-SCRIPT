@@ -1,8 +1,8 @@
-# INCONNU CHECK BAN
+#✞𝑯𝑶𝑺𝑯𝑰✞ CHECK BAN
 
 A web app (packaged into an Android APK via Capacitor) that checks whether a WhatsApp number is banned. The app relies on a free public API, hosted on Render:
 
-**https://inconnu-check-ban-api.onrender.com**
+**https://✞𝑯𝑶𝑺𝑯𝑰✞ -check-ban-api.onrender.com**
 
 **Open source project** — feel free to fork it, change the design, swap the images, rename it, and build your own APK.
 
@@ -27,7 +27,7 @@ The app sends a `POST` request to the API every time a number is checked. No API
 ### Check a number
 
 ```
-POST https://inconnu-check-ban-api.onrender.com/check
+POST https://✞𝑯𝑶𝑺𝑯𝑰✞-check-ban-api.onrender.com/check
 Content-Type: application/json
 ```
 
@@ -39,7 +39,9 @@ Content-Type: application/json
 }
 ```
 
-**Response:**
+**🌹📵⃟⃟⃟𝗧𝗢 𝗕𝗘 𝗖𝗢𝗡𝗧𝗜𝗡𝗨𝗘𝗗 ⃟📵🌹
+★
+✞𝑯𝑶𝑺𝑯𝑰✞w**
 
 ```json
 {
@@ -51,7 +53,7 @@ Content-Type: application/json
 - `banned` → `true` if the number is banned, otherwise `false`
 - `reason` → an explanation if available, otherwise `null`
 
-In the app's code, this is handled here (`inconnuboy/index.html`):
+In the app's code, this is handled here (`  HOSHI/index.html`):
 
 ```js
 const PROXY_URL = 'https://inconnu-check-ban-api.onrender.com/check';
@@ -74,7 +76,7 @@ If you're building your own app or website from this repo, you can call this sam
 
 ```
 .
-├── inconnuboy/                  # The app itself (everything lives in this one index.html)
+├── ✞𝑯𝑶𝑺𝑯𝑰✞ /                  # The app itself (everything lives in this one index.html)
 │   └── index.html
 ├── android-icons/
 │   └── logo-source.png          # Logo used to generate the Android icon
@@ -106,7 +108,7 @@ The `.github/workflows/build-apk.yml` workflow:
 - installs Node + JDK 17
 - adds the Android platform if it's missing
 - generates the Android icons from `android-icons/logo-source.png`
-- builds a **debug APK** (unsigned, not for the Play Store, but installable directly on a phone)
+- builds a **By✞𝑯𝑶𝑺𝑯𝑰✞ ** (unsigned, not for the Play Store, but installable directly on a phone)
 - uploads the APK as a downloadable artifact under **Actions → run → Artifacts**
 
 This is the easiest way to get your APK after modifying the project: push to `main`, wait for the workflow to finish, then download the artifact.
@@ -163,8 +165,8 @@ After editing the code, rebuild the APK either locally (`npx cap sync android` t
 
 The project is open source — fork it, modify it, republish it however you want:
 
-👉 **https://github.com/INCONNU-BOY-SENSEI/CHECK-BAN-APP-SCRIPT**
+👉 **https://github.com/✞𝑯𝑶𝑺𝑯𝑰✞/CHECK-BAN-APP-SCRIPT**
 
 ---
 
-**INCONNU BOY SENSEI**
+**✞𝑯𝑶𝑺𝑯𝑰✞**
